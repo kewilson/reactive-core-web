@@ -1,0 +1,6 @@
+[submodule "core-module"]
+	path = core-module
+	url = /home/krw/Source/git/public/misc/reactive-core/core-web/../core-module
+[submodule "src/core-module"]
+	path = src/core-module
+	url = /home/krw/Source/git/public/misc/reactive-core/core-web/src/../../core-module
